@@ -1,0 +1,5 @@
+name: EasyKnockback
+author: Fan
+version: 1.0
+api: [4.0.0]
+main: EasyKnockback\Main
